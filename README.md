@@ -33,7 +33,7 @@ PWA · Participant registration · Personal dashboards · SvelteKit
   Offline-first · Clean Architecture · GoBD/§14 UStG compliance · Self-hosted on own server
 
 - **tlab29.com** — Course & registration platform · *Founder & Developer* (2024 – present)  
-  SvelteKit · Spring Boot · PostgreSQL · PWA · participant dashboards  
+  JS · Spring Boot · PostgreSQL · PWA · participant dashboards  
   GitLab CI/CD · Docker · Helm 3 · Kubernetes · Traefik · self-hosted GitLab Runner  
   4-stage pipeline: build JAR → Docker image → Helm deploy → smoke test  
   Deployed for real client (Selbständige, DE) · Self-hosted on own server
@@ -51,8 +51,8 @@ PWA · Participant registration · Personal dashboards · SvelteKit
 
 ### Currently
 
-- Building Numi toward first paying customers
-- Deepening Java/SQL fundamentals (deliberate practice, no shortcuts)
+- Building Numi, tlab29.com 
+- Deepening Java/SQL, Go fundamentals
 - Targeting Middle Backend Developer role from April 2027
 
 ---
@@ -60,4 +60,4 @@ PWA · Participant registration · Personal dashboards · SvelteKit
 ### Contact
 
 - LinkedIn: [linkedin.com/in/oleksiy-khudoshyn-5b552b65](https://www.linkedin.com/in/oleksiy-khudoshyn-5b552b65)
-- Email: *(добавь сам)*
+- Email: hudoshin7605@gmail.com
