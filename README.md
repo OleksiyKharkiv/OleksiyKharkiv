@@ -17,7 +17,7 @@ PWA · Participant registration · Personal dashboards · SvelteKit
 ### Stack
 
 **Backend:** Java (Spring Boot, Hibernate 6), Go, REST APIs, Clean Architecture  
-**Frontend:** SvelteKit 5, TypeScript, PWA  
+**Frontend:** JS, SvelteKit 5, TS, PWA  
 **Data:** PostgreSQL, SQLite, MongoDB, MySQL  
 **DevOps:** Docker, GitLab CI/CD, GCP, Litestream, systemd  
 **Tools:** Jira, Postman, IntelliJ IDEA, WSL2
