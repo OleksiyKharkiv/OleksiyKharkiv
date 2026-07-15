@@ -10,7 +10,7 @@ Based in Bergheim, Germany · Available for remote roles in DACH region
 Go backend · SvelteKit · SQLite WAL · Offline-first · Deployed in beta
 
 **[tlab29.com](https://tlab29.com)** — Course platform for a creative studio in Germany.
-PWA · Participant registration · Personal dashboards · SvelteKit
+PWA · Participant registration · Personal dashboards · Java, JS
 
 ---
 
